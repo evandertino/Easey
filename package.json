@@ -1,6 +1,6 @@
 {
   "name": "Easey",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A jQuery Easing Plugin that works with bower",
   "repository": {
     "type": "git",
